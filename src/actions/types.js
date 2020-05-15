@@ -1,0 +1,2 @@
+export const EDIT_LANGUAGE = 'EDIT_LANGUAGE';
+export const THEME_TOGGLE = 'THEME_TOGGLE';
